@@ -1,0 +1,41 @@
+---
+output:
+  html_document:
+    theme: cosmo
+---
+
+
+<br />
+<br />
+<center>
+![](mecircle.png)
+</center>
+
+
+About
+=====
+
+Hi, I'm Keith Ingersoll.  I'm a senior data scientist at Civis Analytics.
+I work on NLP problems and maintain the Python and R client libraries for
+the Civis API.  I tweet using the handle
+[`@_keithing`](https://twitter.com/_keithing) and I can be found on Github
+under the name [`keithing`](https://github.com/keithing). Come talk to me
+about machine learning, funk, film noir, or indie videogames!
+
+
+Code
+====
+
+- [`civis-python`](https://github.com/civisanalytics/civis-python)
+- [`civis-r`](https://github.com/civisanalytics/civis-r)
+- [volcanos](http://research-truck.civisanalytics.com/volcanos/volcanos.html)
+
+
+Writing
+=======
+
+- [Civis Bookshelf](https://www.civisanalytics.com/blog/civis-bookshelf-modeling-predict-sarcasm-emoji/)
+- [Open Sourcing the Civis Python API Client](https://www.civisanalytics.com/blog/open-sourcing-civis-api-client-python/)
+- [Republican Twitter Follower Interests](https://www.civisanalytics.com/blog/foreign-policy-guns-celebrities-and-reality-tv-an-analysis-of-republican-twitter-follower-interests/)
+- [The ACA Supreme Court Decision on Twitter](https://www.civisanalytics.com/blog/the-healthcare-discussion-on-twitter-after-the-aca-decision-are-we-back-to-square-one/)
+- [Cultural Diversity in the Champions League](http://content.iospress.com/articles/journal-of-sports-analytics/jsa52)
