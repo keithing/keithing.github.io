@@ -25,7 +25,7 @@ under the name [`keithing`](https://github.com/keithing).
 Talks
 =====
 
-- [`Jupyter, R Shiny, and the Data Science Web App Landscape (PyData NYC 2017)`](https://www.youtube.com/watch?v=1DKklYElQbU)
+- [Jupyter, R Shiny, and the Data Science Web App Landscape (PyData NYC 2017)](https://www.youtube.com/watch?v=1DKklYElQbU)
 
 
 Code
