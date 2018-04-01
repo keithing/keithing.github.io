@@ -1,26 +1,34 @@
 ---
 output:
   html_document:
-    theme: cosmo
+    theme: journal
 ---
 
-
-<br />
-<br />
-<center>
-![](mecircle.png)
-</center>
-
+<style>
+body {
+  max-width: 700px;
+  margin: auto;
+}   
+</style>
 
 About
 =====
 
+<div style='display: inline-flex'>
+<div>
+```{r echo=FALSE}
+knitr::include_graphics("mecircle.png")
+```
+</div>
+
+<div style='padding: 10px 0 0 20px'>
 Hi, I'm Keith Ingersoll.  I'm a senior data scientist at Civis Analytics.
 I work on NLP problems and maintain the Python and R client libraries for
 the Civis API.  I tweet using the handle
 [`@_keithing`](https://twitter.com/_keithing) and I can be found on Github
-under the name [`keithing`](https://github.com/keithing).
-
+under the name [`@keithing`](https://github.com/keithing).
+</div>
+</div>
 
 Talks
 =====
@@ -38,12 +46,12 @@ Code
 Writing
 =======
 
-- [Civis Bookshelf](https://www.civisanalytics.com/blog/civis-bookshelf-modeling-predict-sarcasm-emoji/)
-- [Open Sourcing the Civis Python API Client](https://www.civisanalytics.com/blog/open-sourcing-civis-api-client-python/)
+- [An Intro to Natural Language Processing](https://medium.com/civis-analytics/an-intro-to-natural-language-processing-in-python-framing-text-classification-in-familiar-terms-33778d1aa3ca)
+- [Cultural Diversity in the Champions League](http://content.iospress.com/articles/journal-of-sports-analytics/jsa52)
 - [Republican Twitter Follower Interests](https://www.civisanalytics.com/blog/foreign-policy-guns-celebrities-and-reality-tv-an-analysis-of-republican-twitter-follower-interests/)
 - [The ACA Supreme Court Decision on Twitter](https://www.civisanalytics.com/blog/the-healthcare-discussion-on-twitter-after-the-aca-decision-are-we-back-to-square-one/)
-- [Cultural Diversity in the Champions League](http://content.iospress.com/articles/journal-of-sports-analytics/jsa52)
-
+- [Open Sourcing the Civis Python API Client](https://www.civisanalytics.com/blog/open-sourcing-civis-api-client-python/)
+- [Civis Bookshelf](https://www.civisanalytics.com/blog/civis-bookshelf-modeling-predict-sarcasm-emoji/)
 
 Projects
 ========
