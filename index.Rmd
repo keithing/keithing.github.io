@@ -22,11 +22,13 @@ knitr::include_graphics("mecircle.png")
 </div>
 
 <div style='padding: 10px 0 0 20px'>
-Hi, I'm Keith Ingersoll.  I'm a senior data scientist at Civis Analytics.
-I work on NLP problems and maintain the Python and R client libraries for
-the Civis API.  I tweet using the handle
-[`@_keithing`](https://twitter.com/_keithing) and I can be found on Github
-under the name [`@keithing`](https://github.com/keithing).
+Hi, I'm Keith Ingersoll.  I'm a lead data scientist at Civis Analytics.
+I work on [Creative Focus](https://www.civisanalytics.com/creative-focus/), 
+a tool that uses surveys and algorithms to pair audiences with the
+messages they find most persuasive. I'm also a maintainer of the Python
+and R client libraries for the Civis API.  I tweet using the handle
+[`@_keithing`](https://twitter.com/_keithing) and I can be found
+on Github under the name [`@keithing`](https://github.com/keithing).
 </div>
 </div>
 
